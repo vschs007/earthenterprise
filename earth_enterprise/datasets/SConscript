@@ -4,5 +4,4 @@
 
 import os
 Import('env')
-
 env.installDirExcluding('common_share', '.', ['.svn', 'SConscript'], 'datasets/')
