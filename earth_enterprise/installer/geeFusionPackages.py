@@ -14,7 +14,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
 # geeFusionPackages.py
 # Return the package information for the current version of
 # Google Earth Enterprise Fusion, including name, versions and srpm info.
